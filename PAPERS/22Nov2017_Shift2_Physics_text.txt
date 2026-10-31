@@ -1,0 +1,1515 @@
+QID : 601 - Select the related word from the given alternatives.
+Rain : Water :: Hail : ?
+Options:
+1) Vapour
+2) Storm
+3) Cold
+4) Ice
+Correct Answer: Ice
+QID : 602 - Select the related letters from the given alternatives.
+FHJ : CEG :: LNP : ?
+Options:
+1) IKM
+2) HJL
+3) NPR
+4) RTV
+Correct Answer: IKM
+QID : 603 - Select the related number from the given alternatives.
+1/4 : -1/2 :: -1/10 : ?
+Options:
+1) -1/5
+2) 1/20
+3) 1/5
+4) -1/20
+Correct Answer: 1/5
+QID : 604 - Select the odd word from the given alternatives.
+Options:
+1) Professor
+2) Postgraduate
+3) Graduate
+4) Master
+Correct Answer: Professor
+QID : 605 - Select the odd letters from the given alternatives.
+Options:
+1) BFJ
+2) KOS
+3) TXB
+4) GIK
+Correct Answer: GIK
+QID : 606 - Select the odd number from the given alternatives.
+Options:
+1) 144
+2) 225
+3) 157
+4) 256
+Correct Answer: 157
+QID : 607 - A series is given, with one word missing. Choose the correct alternative from the given ones that will complete the series.
+Parrot, Other, Eruption, Onset, Etcetera, ?
+Options:
+1) Suavely
+2) Lagging
+3) Holding
+4) Ransom
+Correct Answer: Ransom
+QID : 608 - A series is given, with one term missing. Choose the correct alternative from the given ones that will complete the series.?
+AAAAAAAB, BAAAAAAB, BAAAAABB, BBAAAABB, BBAAABBB, ?
+Options:
+1) BBABBBB
+2) BBBAAABBB
+3) BBBBBBBB
+4) BBBAABBB
+Correct Answer: BBBAABBB
+QID : 609 - A series is given, with one number missing. Choose the correct alternative from the given ones that will complete the series.
+1.4, 2.2, ? , 3.8, 4.6
+Options:
+1) 2.8
+2) 3.2
+3) 3
+4) 3.4
+Correct Answer: 3
+QID : 610 - Parinaaz's birthday is on Saturday 29th April. On what day of the week will be Kiara's Birthday in the same year, if Kiara was born on 5th September?
+Options:
+1) Wednesday
+2) Friday
+3) Tuesday
+4) Thursday
+Correct Answer: Tuesday
+QID : 611 - The weights of 4 boxes are 30, 90, 80 and 20 Kg. Which of the following cannot be the total weight, in kilograms, of any combination of these boxes
+and in a combination a box can be used only once?
+Options:
+1) 220
+2) 200
+3) 190
+4) 210
+Correct Answer: 210
+QID : 612 - From the given words, select the word which cannot be formed using the letters of the given word.
+COGENTLY
+Options:
+1) CLONE
+2) GENTLY
+3) CLUNG
+4) CENT
+Correct Answer: CLUNG
+QID : 613 - If MESTIZO is coded as KCQRGXM, then how will YAK be coded as?
+Options:
+1) WYI
+2) YKS
+3) TYL
+4) IFG
+Correct Answer: WYI
+QID : 614 - In a certain code language, '+' represents '×', '-' represents '+', '×' represents '÷' and '÷' represents '-'. What is the answer to the following question?
+9 × 3 ÷ 12 + 5 - 24 = ?
+Options:
+1) -33
+2) 3
+3) 39
+4) 69
+Correct Answer: -33
+QID : 615 - If 17$5 = 11, 3$21 = 12, 2$4 = 3 then what is the value of 42$6 = ?
+Options:
+1) 24
+2) 22
+3) 57
+4) 76
+Correct Answer: 24
+QID : 616 -
+Options:
+1) 6
+2) 4
+3) 18
+4) 10
+Correct Answer: 4
+QID : 617 - Two motorcyclists P and Q start from the same point. P rides 17 km West, then turns South and rides 11 km, then turns to his right and rides 10 km. Q
+rides 20 km South, then turns to his right and rides 27 km. Where is Q with respect to P now?
+Options:
+1) 9 km North
+2) 31 km South
+3) 31 km North
+4) 9 km South
+Correct Answer: 9 km South
+QID : 618 - In the question two statements are given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to be at
+variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.
+Statement
+No two-wheelers are motorcycles.
+All motorcycles are bicycles.
+Conclusion
+Some two-wheelers are bicycles.
+No motorcycles are two-wheelers.
+Options:
+1) Only conclusion I follows
+2) Only conclusion II follows
+3) Both I and II follow
+4) Neither I nor II follows
+Correct Answer: Only conclusion II follows
+QID : 619 -
+Options:
+1)
+2)
+3)
+4)
+Correct Answer:
+QID : 620 -
+Options:
+1) F,G,H
+2) E,C,D
+3) A,C
+4) B,F
+Correct Answer: A,C
+QID : 621 -
+Options:
+1)
+2)
+3)
+4)
+Correct Answer:
+QID : 622 -
+Options:
+1)
+2)
+3)
+4)
+Correct Answer:
+QID : 623 -
+Options:
+1)
+2)
+3)
+4)
+Correct Answer:
+QID : 624 -
+Options:
+1)
+2)
+3)
+4)
+Correct Answer:
+QID : 625 -
+Options:
+1) 40,20,56,55
+2) 32,00,56,89
+3) 11,41,78,67
+4) 97,75,01,11
+Correct Answer: 97,75,01,11
+QID : 626 - What least number must be added to 728, so that the sum is completely divisible by 11?
+Options:
+1) 9
+2) 7
+3) 5
+4) 3
+Correct Answer: 9
+QID : 627 - A can do 2/3rd of a job in 18 days and B can do 1/3rd of the job in 18 days. If they work on it together, in how many days can they do half of the job?
+Options:
+1) 12
+2) 15
+3) 9
+4) 18
+Correct Answer: 9
+QID : 628 - What is the area (in sq cm) of an equilateral triangle of side 16 cm?
+Options:
+1) 128√3
+2) 64√3
+3) 32√3
+4) 96√3
+Correct Answer: 64√3
+QID : 629 - What is the effective discount (in %) of two successive discounts of 10% and 40%?
+Options:
+1) 50
+2) 36
+3) 55
+4) 46
+Correct Answer: 46
+QID : 630 - Profit of Rs 49,800 has to be divided between three partners A, B and C in the ratio 4:7:9. How much does B (in Rs) get?
+Options:
+1) 17430
+2) 9960
+3) 18450
+4) 22410
+Correct Answer: 17430
+QID : 631 - The average weight of P, Q and R is 84 kg. If the average weight of P and Q be 86 kg and that of Q and R be 75 kg, then what is the weight (in kgs) of
+Q?
+Options:
+1) 65
+2) 75
+3) 70
+4) 80
+Correct Answer: 70
+QID : 632 - A shopkeeper by selling 9 items, earns a profit equal to the selling price of 1 item. What is his profit percentage?
+Options:
+1) 25
+2) 12.5
+3) 20
+4) 10
+Correct Answer: 12.5
+QID : 633 - What is the value of 16% of 25% of 400?
+Options:
+1) 16
+2) 8
+3) 40
+4) 160
+Correct Answer: 16
+QID : 634 - To cover a distance of 90 km in 1 hour 15 minutes what should be the average speed of the car in meters/second?
+Options:
+1) 10
+2) 15
+3) 20
+4) 25
+Correct Answer: 20
+QID : 635 - In 3 years at simple interest the principal increases by 24%. What will be the compound interest (in Rs) earned on Rs. 5,000 in 2 years at the same
+rate?
+Options:
+1) 725
+2) 840
+3) 832
+4) 816
+Correct Answer: 832
+QID : 636 - If 5x/6 - (4/3)(2 - 3x/2) = 1/3 , then what is the value of x?
+Options:
+1) 17/18
+2) -18/17
+3) 18/17
+4) -17/18
+Correct Answer: 18/17
+QID : 637 - If a3 + b3 = 28 and ab = 3, then what is the value of a + b?
+Options:
+1) 2
+2) 4
+3) 9
+4) 3
+Correct Answer: 4
+QID : 638 - Thrice a fraction is greater than its reciprocal by 46/7. What is the fraction?
+Options:
+1) 7/3
+2) 3/7
+3) 5/4
+4) 4/5
+Correct Answer: 7/3
+QID : 639 - What is the sum of the first 13 terms of an arithmetic progression if the 5th term is -2 and the 8th term is 7?
+Options:
+1) -61
+2) 52
+3) -15
+4) 72
+Correct Answer: 52
+QID : 640 - What is the reflection of the point (-2, 5) in the line x = 1?
+Options:
+1) (4 , -5)
+2) (4 , 5)
+3) (-4 , -5)
+4) (-4 , 5)
+Correct Answer: (4 , 5)
+QID : 641 - Point P is the midpoint of segment AB. Co-ordinates of P are (-5, -2) and A are (-2, 0). What are the co-ordinates of point B?
+Options:
+1) (-8, -4)
+2) (-8, 4)
+3) (8, -4)
+4) (8, 4)
+Correct Answer: (-8, -4)
+QID : 642 - What is the slope of the line perpendicular to the line passing through the points (2, -5) and (4, 0)?
+Options:
+1) -5/2
+2) 2/5
+3) -2/5
+4) 5/2
+Correct Answer: -2/5
+QID : 643 - ?ABC is similar to ?PQR. If ratio of perimeters of ?ABC : ?PQR is 3:5 and if PQ = 15 cm, then what is the length (in cm) of AB?
+Options:
+1) 9
+2) 10
+3) 12
+4) 8
+Correct Answer: 9
+QID : 644 - What is the value of (√2) Sec 30o + (1/√2 )Tan 60o =?
+Options:
+1) 7/6
+2) 5/√6
+3) 5/6
+4) 7/√6
+Correct Answer: 7/√6
+QID : 645 - ? LMN is right angled at M. If m∠N = 30o, then
+Tan L x (1/2) Cosec L =?
+Options:
+1) 2
+2) 1/√2
+3) 1
+4) 1/2
+Correct Answer: 1
+QID : 646 - If Sin θ = 12/37 , then,
+Cot θ = ?
+Options:
+1) 35/12
+2) 12/35
+3) 37/12
+4) 35/37
+Correct Answer: 35/12
+QID : 647 -
+In which division, the number of students who passed in Math was greater than those who passed in Science?
+Options:
+1) B
+2) A
+3) C
+4) D
+Correct Answer: B
+QID : 648 -
+If division B has 50 students, how many students (in %) failed in Science?
+Options:
+1) 40
+2) 15
+3) 80
+4) 30
+Correct Answer: 80
+QID : 649 -
+If division C has 40 students how many students (in %) passed in both the subjects?
+Options:
+1) 75
+2) 60
+3) 30
+4) 40
+Correct Answer: 75
+QID : 650 -
+If the top 20% of students who passed in Math and top 40% of those who passed in Science are to be awarded certificates, how many certificates need to be
+printed?
+Options:
+1) 65
+2) 23
+3) 42
+4) 44
+Correct Answer: 65
+QID : 651 - In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button
+corresponding to it. If the sentence is free from error, click the "No error" option.
+I want to show (1)/ people there is as much (2)/ more we can offer. (3)/ No Error (4)
+Options:
+1) 1
+2) 2
+3) 3
+4) 4
+Correct Answer: 2
+QID : 652 - In the following question, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button
+corresponding to it. If the sentence is free from error, click the "No error" option.
+The whole family (1)/ would burst into (2)/ peals for laughter. (3)/ No Error (4)
+Options:
+1) 1
+2) 2
+3) 3
+4) 4
+Correct Answer: 3
+QID : 653 - The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question,
+select the correct alternative and click the button corresponding to it.Green Acres is a full-service restaurant as well as a ______________ club.
+Options:
+1) happen
+2) happenings
+3) happening
+4) happenstance
+Correct Answer: happening
+QID : 654 - In the following question, the sentence is given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and
+indicate it by selecting the appropriate option.
+The tiny deer stood looking at them with _________ eyes.
+Options:
+1) anxiously
+2) anxiousness
+3) anxiety
+4) anxious
+Correct Answer: anxious
+QID : 655 - In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+Contemptuous
+Options:
+1) Flattering
+2) Derisive
+3) Extol
+4) Tout
+Correct Answer: Derisive
+QID : 656 - In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+Scramble
+Options:
+1) Harmonise
+2) Melee
+3) Tabulate
+4) Codify
+Correct Answer: Melee
+QID : 657 - In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+Contradiction
+Options:
+1) Concurrence
+2) Dispute
+3) Conflict
+4) Discrepancy
+Correct Answer: Concurrence
+QID : 658 - In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+Resolute
+Options:
+1) Complacent
+2) Adamant
+3) Obstinate
+4) Staunch
+Correct Answer: Complacent
+QID : 659 - In each of the questions, four alternatives are given for the Idiom/Phrase. Select the alternative which best expresses the meaning of the Idiom/Phrase
+and click the button corresponding to it.
+Take something for granted
+Options:
+1) Receive gifts and favours from others for your venture
+2) Assume that something is true without questioning it
+3) Borrow money and promptly forget to repay
+4) Take something without permission but with knowledge of the person
+Correct Answer: Assume that something is true without questioning it
+QID : 660 - In each of the questions, four alternatives are given for the Idiom/Phrase. Select the alternative which best expresses the meaning of the Idiom/Phrase
+and click the button corresponding to it.
+Wild goose chase
+Options:
+1) A bird hunting trip where you hunt with the help of dogs
+2) Have a great fun time with friends
+3) Pursue something with half hearted interest
+4) A frustrating or lengthy undertaking that accomplishes little
+Correct Answer: A frustrating or lengthy undertaking that accomplishes little
+QID : 661 - A sentence/a part of the sentence is bracketed. Four alternatives are given to the bracketed part which will improve the sentence. Choose the correct
+alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+He (struggle) to make ends meet.
+Options:
+1) was struggle
+2) was struggling
+3) are struggling
+4) No improvement
+Correct Answer: was struggling
+QID : 662 - A sentence/a part of the sentence is bracketed. Four alternatives are given to the bracketed part which will improve the sentence. Choose the correct
+alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+Every person (have to go) through different stages in life.
+Options:
+1) has to go
+2) to go
+3) is going
+4) No improvement
+Correct Answer: has to go
+QID : 663 - Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+Understand a difficult problem after much thought
+Options:
+1) Fathom
+2) Confound
+3) Obscure
+4) Perplex
+Correct Answer: Fathom
+QID : 664 - Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+Widespread disgust incurred by someone as a result of their actions.
+Options:
+1) Affection
+2) Exaltation
+3) Exoneration
+4) Odium
+Correct Answer: Odium
+QID : 665 - Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+Options:
+1) hazzardous
+2) hazardouse
+3) hazzardouse
+4) hazardous
+Correct Answer: hazardous
+QID : 666 - Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+Options:
+1) impassive
+2) impasive
+3) impasseve
+4) impaseve
+Correct Answer: impassive
+QID : 667 - The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a
+coherent paragraph.
+After being exposed to a
+X-diet also spent more time in
+Y-rapid-eye-movement (REM) sleep
+Z-stressor, the rats on the prebiotic
+Options:
+1) YZX
+2) YXZ
+3) XZY
+4) ZXY
+Correct Answer: ZXY
+QID : 668 - The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a
+coherent paragraph.
+Art has many uses
+X-to beautify and
+Y-force viewers to ponder
+Z-and sometimes it can be used
+Options:
+1) ZXY
+2) YZX
+3) YXZ
+4) XZY
+Correct Answer: ZXY
+QID : 669 - In the following question, a sentence has been given in Active / Passive voice. Out of the four alternatives suggested, select the one which best
+expresses the same sentence in Passive / Active voice.
+The doctor shall have examined ten patients by 10 O’clock.
+Options:
+1) Ten patients will have being examined by 10 O’clock by the doctor.
+2) Examination of ten patients was being done by the doctor by 10 O'clock.
+3) Ten patients will have been examined by 10 O’clock by the doctor.
+4) Examination of ten patients shall have been done by the doctor by 10 O'clock.
+Correct Answer: Ten patients will have been examined by 10 O’clock by the doctor.
+QID : 670 - In the following question, a sentence has been given in Direct / Indirect speech. Out of the four alternatives suggested, select the one which best
+expresses the same sentence in Indirect / Direct speech.
+“That is the best part.” she told them.
+Options:
+1) She told them that that is the best part.
+2) She tells them that that was the best part.
+3) She tells them that that is the best part.
+4) She told them that that was the best part.
+Correct Answer: She told them that that was the best part.
+QID : 671 - In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the
+four alternatives.
+Science is all about details, precision, accuracy, and it is ____________ 99 per cent perspiration. The beauty and joy in doing science lies in those rare moments
+_____________ the pieces of a puzzle magically come together. To adapt from Shelley, the shadow indeed becomes ____________ important than the substance. I
+suppose one could put some of this together and disseminate a simplified, sanitised version to the public but in the end, science is a ___________ individualistic,
+personal affair. Most honest scientists will tell you that they are ever so grateful that they are _____________ by their governments to do something that they would
+have done anyhow for free.
+Science is all about details, precision, accuracy, and it is ____________ 99 percent
+Options:
+1) in
+2) indeed
+3) into
+4) inside
+Correct Answer: indeed
+QID : 672 - In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the
+four alternatives.
+Science is all about details, precision, accuracy, and it is ____________ 99 per cent perspiration. The beauty and joy in doing science lies in those rare moments
+_____________ the pieces of a puzzle magically come together. To adapt from Shelley, the shadow indeed becomes ____________ important than the substance. I
+suppose one could put some of this together and disseminate a simplified, sanitised version to the public but in the end, science is a ___________ individualistic,
+personal affair. Most honest scientists will tell you that they are ever so grateful that they are _____________ by their governments to do something that they would
+have done anyhow for free.
+science lies in those rare moments _____________ the pieces of a puzzle
+Options:
+1) then
+2) than
+3) when
+4) so
+Correct Answer: when
+QID : 673 - In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the
+four alternatives.
+Science is all about details, precision, accuracy, and it is ____________ 99 per cent perspiration. The beauty and joy in doing science lies in those rare moments
+_____________ the pieces of a puzzle magically come together. To adapt from Shelley, the shadow indeed becomes ____________ important than the substance. I
+suppose one could put some of this together and disseminate a simplified, sanitised version to the public but in the end, science is a ___________ individualistic,
+personal affair. Most honest scientists will tell you that they are ever so grateful that they are _____________ by their governments to do something that they would
+have done anyhow for free.
+the shadow indeed becomes ____________ important than the substance.
+Options:
+1) to
+2) more
+3) as
+4) so
+Correct Answer: more
+QID : 674 - In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the
+four alternatives.
+Science is all about details, precision, accuracy, and it is ____________ 99 per cent perspiration. The beauty and joy in doing science lies in those rare moments
+_____________ the pieces of a puzzle magically come together. To adapt from Shelley, the shadow indeed becomes ____________ important than the substance. I
+suppose one could put some of this together and disseminate a simplified, sanitised version to the public but in the end, science is a ___________ individualistic,
+personal affair. Most honest scientists will tell you that they are ever so grateful that they are _____________ by their governments to do something that they would
+have done anyhow for free.
+science is a ___________ individualistic, personal affair.
+Options:
+1) highly
+2) high
+3) higher
+4) highest
+Correct Answer: highly
+QID : 675 - In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the
+four alternatives.
+Science is all about details, precision, accuracy, and it is ____________ 99 per cent perspiration. The beauty and joy in doing science lies in those rare moments
+_____________ the pieces of a puzzle magically come together. To adapt from Shelley, the shadow indeed becomes ____________ important than the substance. I
+suppose one could put some of this together and disseminate a simplified, sanitised version to the public but in the end, science is a ___________ individualistic,
+personal affair. Most honest scientists will tell you that they are ever so grateful that they are _____________ by their governments to do something that they would
+have done anyhow for free.
+they are ever so grateful that they are _____________ by their governments
+Options:
+1) to pay
+2) being paid
+3) pay up
+4) paying
+Correct Answer: being paid
+QID : 676 - Census in India is generally done after how many years?
+Options:
+1) 10
+2) 2
+3) 5
+4) 20
+Correct Answer: 10
+QID : 677 - Which Schedule of Indian Constitution deals with division of powers between the union and the states?
+Options:
+1) Sixth Schedule
+2) Seventh Schedule
+3) Eighth Schedule
+4) Ninth Schedule
+Correct Answer: Seventh Schedule
+QID : 678 - In which article of Indian constitution of India there is a provision of a Governor for each state?
+Options:
+1) Article 153
+2) Article148
+3) Article 61
+4) Article 178
+Correct Answer: Article 153
+QID : 679 - During the British rule in India Holt Mackenzie was known for _______.
+Options:
+1) Mahalwari system
+2) Ryotwari system
+3) Permanent settlement
+4) use of English Language in Education
+Correct Answer: Mahalwari system
+QID : 680 - In which year was the historic Lucknow Pact signed?
+Options:
+1) 1910
+2) 1916
+3) 1920
+4) 1919
+Correct Answer: 1916
+QID : 681 - In which book were many of the Chanakya’s ideas written down?
+Options:
+1) Puranas
+2) Rajatarangini
+3) Arthshastra
+4) Mahapravaas
+Correct Answer: Arthshastra
+QID : 682 - In which hemisphere does India lie?
+Options:
+1) Southern and Eastern
+2) Northern and Eastern
+3) Southern and Western
+4) Northern and Western
+Correct Answer: Northern and Eastern
+QID : 683 - Out of which sea the Himalayas were uplifted?
+Options:
+1) Tethys Sea
+2) Coral sea
+3) Eural sea
+4) No option is correct
+Correct Answer: Tethys Sea
+QID : 684 - The northern part of the western coast is called ______.
+Options:
+1) Kannad Plain
+2) Malabar coast
+3) Konkan
+4) Coromandel coast
+Correct Answer: Konkan
+QID : 685 - A wet, swampy and marshy region in the northern plain is called ______.
+Options:
+1) Bhabar
+2) Khadar
+3) Terai
+4) Kankar
+Correct Answer: Terai
+QID : 686 - 'Cape of Good Hope' is located in which country?
+Options:
+1) India
+2) South Africa
+3) Australia
+4) Brazil
+Correct Answer: South Africa
+QID : 687 - Which of the following is not among the six major controls of the climate in India?
+Options:
+1) Latitude
+2) Altitude
+3) Disturbance from the sea
+4) Population
+Correct Answer: Population
+QID : 688 - In what ratio tea at Rs 240 per kg be mixed with tea at Rs 300 per kg so that on selling the mixture at Rs 336 per kg there is a profit of 20%?
+Options:
+1) 1 : 2
+2) 2 : 3
+3) 3 : 4
+4) 1 : 1
+Correct Answer: 1 : 2
+QID : 689 - The force, which takes an angle area towards a page, is called ______.
+Options:
+1) Gravitation force
+2) Magnetic force
+3) Friction
+4) Pressure
+Correct Answer: Pressure
+QID : 690 - Whittaker classified organisims into how many kingdoms?
+Options:
+1) 3
+2) 5
+3) 7
+4) 9
+Correct Answer: 5
+QID : 691 - What is the chemical formula of chloroform?
+Options:
+1) CCl4
+2) CHCl3
+3) CH4
+4) CH3 OH
+Correct Answer: CHCl3
+QID : 692 - The National Institution for Transforming India (NITI Aayog) launched National Nutrition Strategy aimed at ______.
+Options:
+1) Rog Mukt Bharat
+2) Kuposhan Mukt Bharat
+3) Pradushan Mukt Bharat
+4) Shashakt Bharat
+Correct Answer: Kuposhan Mukt Bharat
+QID : 693 - What is the name of world’s biggest and powerful nuclear powered icebreaker ship launched by Russia?
+Options:
+1) Arctic
+2) Sibir
+3) Ural
+4) Baltic
+Correct Answer: Sibir
+QID : 694 - Who won men's single title of 2017 US Open tennis championship?
+Options:
+1) Rafael Nadal
+2) Kevin Anderson
+3) HoriaTecau
+4) Andy Murray
+Correct Answer: Rafael Nadal
+QID : 695 - India and its which neighbouring country are counting tiger heads for the first time using same method recognized internationally?
+Options:
+1) Bangladesh
+2) Bhutan
+3) Pakistan
+4) Nepal
+Correct Answer: Nepal
+QID : 696 - Carnatic vocalist T. M. Krishna won 30th Indira Gandhi Award for ______ for 2015-2016.
+Options:
+1) Public Welfare
+2) National Integration
+3) Economic Development
+4) Literature
+Correct Answer: National Integration
+QID : 697 - What is India’s rank in World Bank’s Ease of Doing Business Report, 2018?
+Options:
+1) 130
+2) 100
+3) 80
+4) 60
+Correct Answer: 100
+QID : 698 - India became the 71st country to ratify which of the following Conventions?
+Options:
+1) United Nations TIR (Transports Internationaux Routiers)
+2) Ramsar
+3) The British House of Commons
+4) Newfoundland National Committee
+Correct Answer: United Nations TIR (Transports Internationaux Routiers)
+QID : 699 - The Union Government of India has launched which project to ensure conservation of Himalayan ecosystem?
+Options:
+1) SECURE Himalaya
+2) SAFE Himalaya
+3) SOFT Himalaya
+4) SUSTAIN Himalaya
+Correct Answer: SECURE Himalaya
+QID : 700 - Commemorative coins of Rs. 100 and Rs. 10 denomination were released on 101st Birth Centenary of noted ______ Dr. MS Subbulakshmi.
+Options:
+1) Carnatic Musician
+2) Economist
+3) Actor
+4) Director
+Correct Answer: Carnatic Musician
+QID : 701 - In the ideal gas equation, PV = µRT, µ is the ________________ of the gas.
+Options:
+1) density
+2) viscosity
+3) thermal coefficient of volume expansion
+4) number of moles
+Correct Answer: number of moles
+QID : 702 - "To every action, there is always an equal and opposite reaction." This statement is ________________.
+Options:
+1) Newton's 1st Law
+2) Newton's 2nd Law
+3) Law of conservation of energy
+4) Newton's 3rd Law
+Correct Answer: Newton's 3rd Law
+QID : 703 - [M-1L3T-2] are the dimensions of?
+Options:
+1) Gravitational constant
+2) Gravitational potential energy
+3) Gravitational potential
+4) Gravitational intensity
+Correct Answer: Gravitational constant
+QID : 704 -
+Options:
+1) A-2, B-3, C-1
+2) A-3, B-2, C-1
+3) A-2, B-1, C-3
+4) A-3, B-1, C-2
+Correct Answer: A-3, B-2, C-1
+QID : 705 - 1 atomic mass unit (u) is equivalent to ____________ the mass of carbon isotope C-12.
+Options:
+1) 12 times
+2) 1/12th
+3) 1/6th
+4) 6 times
+Correct Answer: 1/12th
+QID : 706 - 1n0 + 235U92 → 140Ba56 + yKr36 + 31n0. Find y from the given fission equation of an uranium nucleus?
+Options:
+1) 91
+2) 95
+3) 93
+4) 92
+Correct Answer: 93
+QID : 707 - What does 32o Fahrenheit equals to?
+Options:
+1) 373.15 K
+2) 100o C
+3) 89.6o C
+4) 273.15 K
+Correct Answer: 273.15 K
+QID : 708 - 41H1 → 4He2 + _________ + energy. Find the missing element/s.
+Options:
+1) 2 neutrons
+2) 2 electrons
+3) 2 protons
+4) 2 positrons
+Correct Answer: 2 positrons
+QID : 709 - A ball is thrown vertically upwards with a velocity of 20 m/s. How high will the ball rise (in meters)? (use g = 10 m/s²)
+Options:
+1) 10
+2) 20
+3) 5
+4) 40
+Correct Answer: 20
+QID : 710 - A boy standing on a 20 m tall building throws a stone horizontally with a speed of 15 m/s. With what speed will the stone hit the ground (in m/s)? (use
+g = 10 m/s²)
+Options:
+1) 20
+2) 25
+3) 15
+4) 10
+Correct Answer: 25
+QID : 711 - A cyclic heat engine does 24kJ of work per cycle. If the efficiency of the engine is 0.8, then what will be the heat (in kJ) rejected per cycle?
+Options:
+1) 30
+2) 6
+3) 19.2
+4) 39.2
+Correct Answer: 6
+QID : 712 - A mono atomic molecule free to move in space has how many translational degrees of freedom?
+Options:
+1) three
+2) two
+3) one
+4) five
+Correct Answer: three
+QID : 713 -
+Options:
+1) 50
+2) 6
+3) 40
+4) 8
+Correct Answer: 8
+QID : 714 - A point of maximum positive displacement in a transverse wave is called?
+Options:
+1) trough
+2) vertex
+3) apex
+4) crest
+Correct Answer: crest
+QID : 715 - A ray emanating from the object parallel to the principal axis of a convex lens after refraction _______________.
+Options:
+1) passes through the second principal focus
+2) passes through the center of curvature
+3) passes through the pole
+4) remains parallel to the principal axis
+Correct Answer: passes through the second principal focus
+QID : 716 - A resistor which has a silver coloured ring signifies that the resistor has __________ percent tolerance.
+Options:
+1) 10
+2) 5
+3) 1
+4) 20
+Correct Answer: 10
+QID : 717 - An adiabatic wall between two thermodynamic systems _____________.
+Options:
+1) allows both heat and matter to pass across it at constant temperature
+2) does not allow heat to pass across it but allows matter to pass
+3) does not allow matter to pass but allows heat to pass across it
+4) does not allow heat or matter to pass across it
+Correct Answer: does not allow heat or matter to pass across it
+QID : 718 - An alpha particle is same as?
+Options:
+1) a helium nucleus
+2) a hydrogen nucleus
+3) a proton
+4) a positron
+Correct Answer: a helium nucleus
+QID : 719 - At what temperature (in oC) is the r.m.s. velocity of hydrogen molecules twice the r.m.s. velocity of oxygen molecules at 327o C?
+Options:
+1) 150
+2) -123
+3) -150
+4) 123
+Correct Answer: -123
+QID : 720 - B/µo - M is equal to? (B is magnetic field, M is magnetisation of the material and µo is permeability of free space)
+Options:
+1) magnetic susceptibility
+2) magnetic moment
+3) magnetic intensity
+4) magnetic flux
+Correct Answer: magnetic intensity
+QID : 721 - By what percent should the pressure of a gas be increased so as to decrease its volume by 20%, at constant temperature?
+Options:
+1) 20%
+2) 16%
+3) 25%
+4) 40%
+Correct Answer: 25%
+QID : 722 - Electric potential at a point with position vector r due to a point charge Q placed at the origin is given by the formula _____________.
+Options:
+1) V = Q/(2π?or2)
+2) V = Q/(4π?or2)
+3) V = Q/(4π?or)
+4) V = Q/(2π?or)
+Correct Answer: V = Q/(4π?or)
+QID : 723 - Fermi is a unit of?
+Options:
+1) Length
+2) Mass
+3) Area
+4) Time
+Correct Answer: Length
+QID : 724 - Find the uniform angular acceleration of a wheel if its angular speed increases from 420 rpm to 660 rpm in 8 seconds?
+Options:
+1) 2? rad/s²
+2) 1 rad/s²
+3) ? rad/s²
+4) 2 rad/s²
+Correct Answer: ? rad/s²
+QID : 725 - For a transistor in common emitter configuration ____________________ is the ratio of change in base-emitter voltage (ΔVBE) to the resulting change
+in base current (ΔIB) at constant collector-emitter voltage (VCE).
+Options:
+1) Output resistance
+2) Current amplification factor
+3) Voltage gain
+4) Input resistance
+Correct Answer: Input resistance
+QID : 726 - For small deformations, the stress and strain are proportional to each other. What is this known as?
+Options:
+1) Hooke’s law
+2) Gauss's Law
+3) Henry's Law
+4) Joule's Law
+Correct Answer: Hooke’s law
+QID : 727 - How much heat (in joules) would be required to raise the temperature of 500 g of an aluminium sphere from 20 oC to 720 oC? [Specific Heat Capacity
+of Aluminium is 900 J/(kgK)]
+Options:
+1) 3.15 x 105
+2) 3.15 x 107
+3) 1.26 x 105
+4) 1.26 x 107
+Correct Answer: 3.15 x 105
+QID : 728 - If 1,2 and 3 represent different mediums and 'n' is refractive index, then which of the following equations is true?
+Options:
+1) n23 = n31 × n12
+2) n32 = n31 × n12
+3) n32 = n13 × n12
+4) n23 = n13 × n12
+Correct Answer: n32 = n31 × n12
+QID : 729 - If 'A' is the angle of a prism, 'I' is angle of incidence, 'e' is angle of emergence, then the angle of deviation 'δ' of light incident on the prism is equal to?
+Options:
+1) i + e + A
+2) i - e + A
+3) i - e - A
+4) i + e - A
+Correct Answer: i + e - A
+QID : 730 - If a metal wire of length 'l' and cross section area 'A' has resistance 'R', then the resistivity of the material of the wire is equal to?
+Options:
+1) RA/l
+2) Rl/A
+3) lA/R
+4) A/(lR)
+Correct Answer: RA/l
+QID : 731 - If a projectile is thrown with velocity v and makes an angle θ with the x-axis then the time taken for achieving maximum height is given by which
+formula?
+Options:
+1) t= vsinθ/g
+2) t= v²sinθ/g
+3) t= v²sin²θ/g
+4) t= vsin²θ/g
+Correct Answer: t= vsinθ/g
+QID : 732 - If an object is placed 10 cm in front of a convex lens of focal length 6 cm, then find the position of the image (in cm)?
+Options:
+1) 12
+2) -15
+3) 15
+4) -12
+Correct Answer: 15
+QID : 733 - If chlorine has two isotopes one of 35u and the other 37u and the average mass of chlorine atom is 35.5u, then the ratio of abundance of the two
+isotopes of masses 35u and 37u is _______.
+Options:
+1) 1/3
+2) 1/4
+3) 3/1
+4) 4/1
+Correct Answer: 3/1
+QID : 734 - If 'E' is magnitude of uniform electric field in a conductor, 'τ' is the relaxation time, ('e' is charge and'm' is mass of an electron) then, the term -eEτ/m is
+equal to the ______________ the electrons.
+Options:
+1) force experienced by
+2) acceleration experienced by
+3) drift velocity of
+4) charge density due to
+Correct Answer: drift velocity of
+QID : 735 - If the empirical formula for the observed wavelengths for hydrogen is 1/λ = R(1/12 - 1/n2), where n is integral values higher than 1, then it represents
+the _____________ spectral series.
+Options:
+1) Balmer
+2) Paschen
+3) Lyman
+4) Brackett
+Correct Answer: Lyman
+QID : 736 - If the energy of the electron in the 2nd orbit of hydrogen is -3.4 eV, then how much is the energy (in eV) in the 3rd orbit?
+Options:
+1) -1.511
+2) -2.22
+3) -5.1
+4) -13.6
+Correct Answer: -1.511
+QID : 737 - If the gas particles are of diameter 'd', average speed 'v', number of particles per unit volume 'n', then the volume a particle sweeps in time 't' is?
+Options:
+1) ?d2vt
+2) ?v2td
+3) ?t2vd
+4) ?2tvd
+Correct Answer: ?d2vt
+QID : 738 - If the ideal gas equation is written as PV = kBNT, where N is number of molecules, then kB represents?
+Options:
+1) Gas Constant
+2) Bohr radius
+3) Boltzmann constant
+4) B-Factor
+Correct Answer: Boltzmann constant
+QID : 739 - If x is displacement, time taken is t, initial velocity is u, final velocity is v and acceleration is a, then which of the following equations is true?
+Options:
+1) u² = v² + 2ax
+2) x = (v² - u²)/2a
+3) v² = u² - 2ax
+4) x = (v² + u²)/2a
+Correct Answer: x = (v² - u²)/2a
+QID : 740 - If 'x' is the displacement of a particle performing simple harmonic motion, then "kx2/2" is equal to its ______________ energy.
+Options:
+1) kinetic
+2) potential
+3) total mechanical
+4) vibrational
+Correct Answer: potential
+QID : 741 - If 'φ' is Electric flux through a closed surface 'S', 'q' is total charge enclosed by 'S' and '?'o is permittivity of free space, then these three are related by
+Gauss' Law formula __________.
+Options:
+1) φ = q?o
+2) φ = q/?o
+3) φ = ?o/q
+4) φ = √(q?o)
+Correct Answer: φ = q/?o
+QID : 742 - In ______________the conduction band overlaps on the valence band.
+Options:
+1) elemental semiconductors
+2) compound semiconductors
+3) metallic conductors
+4) insulators
+Correct Answer: metallic conductors
+QID : 743 - In a nuclear power plant based on pressurised-water reactor, which substance is used both as the moderator and as the heat transfer medium?
+Options:
+1) air
+2) hydrogen
+3) nitrogen
+4) water
+Correct Answer: water
+QID : 744 - In a stationary wave in a stretched string fixed at both ends the first anti-node is formed at x = __________. ('λ' is the wavelength of the stationary
+wave)
+Options:
+1) λ/4
+2) λ/2
+3) λ
+4) 2λ
+Correct Answer: λ/4
+QID : 745 - In a uniform magnetic field 'B', a charge 'q' of mass 'm' executes a circular orbit in a plane normal to 'B'. Its frequency of uniform circular motion is
+called the cyclotron frequency which is equal to?
+Options:
+1) qB/(2πm)
+2) 2qB/(πm)
+3) 2π/qB
+4) pπ/(2qB)
+Correct Answer: qB/(2πm)
+QID : 746 - In Einstein's mass-energy equivalence relation E = mc2, 'c' stands for?
+Options:
+1) Planck constant
+2) elementary charge
+3) atomic mass constant
+4) speed of light
+Correct Answer: speed of light
+QID : 747 - In equilibrium, the total energy is equally distributed in all possible energy modes for a molecule, with each mode having an average energy equal to?
+Options:
+1) kBT/2
+2) kBT
+3) 2kBT
+4) kBT/4
+Correct Answer: kBT/2
+QID : 748 - In Rutherford's gold foil experiment which of the following were directed towards the gold foil?
+Options:
+1) β-particles
+2) γ-particles
+3) electrons
+4) α-particles
+Correct Answer: α-particles
+QID : 749 - In simple harmonic motion, the particle velocity lags behind the displacement by a phase angle of __________.
+Options:
+1) π/2
+2) -π/4
+3) π
+4) -π
+Correct Answer: π/2
+QID : 750 - In the formula, 1/λ = R(1/52 - 1/n2) which represents the Pfund spectral series for hydrogen, 'R' is _____________ constant.
+Options:
+1) Planck
+2) Bohr
+3) Thomson
+4) Rydberg
+Correct Answer: Rydberg
+QID : 751 -In the relation from Kinetic theory of gases, PV = (1/3)Nmv2, if 'N' is number of particles then 'm' stands for?
+Options:
+1) Molecular mass
+2) Mass of the gas
+3) Mass of the particle
+4) Number of moles of the gas
+Correct Answer: Mass of the particle
+QID : 752 - In the simple harmonic motion x = √2 sin(ωt – π/4), the phase constant can be shown as?
+Options:
+1) √2
+2) 2π/ω
+3) ωt
+4) 7π/4
+Correct Answer: 7π/4
+QID : 753 - In which Thermodynamic process is temperature constant?
+Options:
+1) Isobaric
+2) Isochoric
+3) Adiabatic
+4) Isothermal
+Correct Answer: Isothermal
+QID : 754 - Inductive reactance is equal to?
+Options:
+1) 1/(ωL)
+2) ω/L
+3) L/ω
+4) ωL
+Correct Answer: ωL
+QID : 755 - Louis de Broglie argued that the electron in its circular orbit must be seen as a particle wave, whose wavelength is equal to _______ , where 'p' is the
+magnitude of the electron’s momentum and 'h' is Planck's constant.
+Options:
+1) hp
+2) p/h
+3) h/p2
+4) h/p
+Correct Answer: h/p
+QID : 756 - One end of a cylindrical pipe of cross-section 6.6 cm² has 14 holes each of radius 1 mm. If water is flowing in the pipe at 1 m/min then what is the
+speed (in m/s) of efflux through the holes?
+Options:
+1) 0.25
+2) 0.125
+3) 0.625
+4) 0.5
+Correct Answer: 0.25
+QID : 757 - What does STP means?
+Options:
+1) 0 degree Celsius temperature and 1 pascal pressure.
+2) 0 kelvin temperature and 1 atm pressure.
+3) 0 kelvin temperature and 1 pascal pressure.
+4) 0 degree Celsius and 1 atm pressure.
+Correct Answer: 0 degree Celsius and 1 atm pressure.
+QID : 758 - Tensile stress on a metal wire of radius 1 mm is 10,000 N/m². How much is the restoring force developed in it (in N)?
+Options:
+1) 3.14 x 10²
+2) 3.14 x 10-2
+3) 3.14 x 10-4
+4) 3.14 x 104
+Correct Answer: 3.14 x 10-2
+QID : 759 - The _____________ of thermodynamics states that if two thermodynamic systems are each in thermal equilibrium with a third system separately are in
+thermal equilibrium with each other.
+Options:
+1) Zeroth Law
+2) First Law
+3) Second Law (Clausius statement)
+4) Second Law (Kelvin-Planck statement)
+Correct Answer: Zeroth Law
+QID : 760 - The _______________ Law is an equation that describes the magnetic field created by a current-carrying wire, and allows you to calculate its strength
+at various points.
+Options:
+1) Ampere's
+2) Lorentz's
+3) Biot-Savart's
+4) Kirchhoff’s
+Correct Answer: Biot-Savart's
+QID : 761 - The ______________________ is a device to measure the flow speed of incompressible fluid.
+Options:
+1) Alti-meter
+2) Baro-meter
+3) Venturi-meter
+4) Hydro-meter
+Correct Answer: Venturi-meter
+QID : 762 - The acceleration of an object moving with speed 'v' in a circle of radius 'R' has a magnitude given by which formula?
+Options:
+1) a = v² x R
+2) a = v/R²
+3) a = v x R²
+4) a = v²/R
+Correct Answer: a = v²/R
+QID : 763 - The amount of scattering of light is inversely proportional to the fourth power of its wavelength. This is known as ____________ scattering.
+Options:
+1) Maxwell
+2) Hertz
+3) Huygens
+4) Rayleigh
+Correct Answer: Rayleigh
+QID : 764 - The capacity of a parallel plate capacitor where 'A' is the area of each plate, 'd' the separation between them and with vacuum between the plates is
+given as?
+Options:
+1) C = ?oAd
+2) C = ?o/(Ad)
+3) C = ?oA/d
+4) C = ?oA/d2
+Correct Answer: C = ?oA/d
+QID : 765 - The charge on an electron is ___________x 10-19 C.
+Options:
+1) 2.4
+2) 3.2
+3) 1.6
+4) 4.8
+Correct Answer: 1.6
+QID : 766 - The current in the inductor __________________.
+Options:
+1) lags the voltage by π/2
+2) leads the voltage by π/2
+3) lags the voltage by π
+4) leads the voltage by π
+Correct Answer: lags the voltage by π/2
+QID : 767 - The expression eτ/m, where 'τ' is the relaxation time, 'e' is charge and 'm' is mass of an electron is equal to the ______________.
+Options:
+1) conductivity of the material
+2) mobility of the electrons
+3) resistivity of the material
+4) permittivity of the material
+Correct Answer: mobility of the electrons
+QID : 768 - The fringe pattern observed in Young's Experiment to produce interference pattern will strictly be a?
+Options:
+1) Hyperbola
+2) Ellipse
+3) Circular
+4) Parabola
+Correct Answer: Hyperbola
+QID : 769 - The human eye can detect electromagnetic radiation in the range of wavelength _______________.
+Options:
+1) 800 nm to 1050 nm
+2) 400 nm to 750 nm
+3) 1200 nm to 1550 nm
+4) 1600 nm to 1950 nm
+Correct Answer: 400 nm to 750 nm
+QID : 770 - The hydraulic lift is based on which of the following?
+Options:
+1) Bernoulli's principle
+2) Pascal's Law
+3) Archimedes' principle
+4) Boyle's law
+Correct Answer: Pascal's Law
+QID : 771 - Which of the following is the ice point of water in the Fahrenheit scale?
+Options:
+1) 212o F
+2) 0o F
+3) 273o F
+4) 32o F
+Correct Answer: 32o F
+QID : 772 - The mass of the hydrogen isotope, tritium is about the same as the masses of?
+Options:
+1) 3 electrons
+2) 3 protons + 3 neutrons
+3) 1 proton + 3 neutrons
+4) 1 proton + 2 neutrons
+Correct Answer: 1 proton + 2 neutrons
+QID : 773 - The mathematical difference between molar specific heat capacities of an ideal gas at constant pressure and volume is equal to which of the following?
+Options:
+1) Carnot constant
+2) Boltzmann constant
+3) Universal gas constant
+4) Rydberg constant
+Correct Answer: Universal gas constant
+QID : 774 - The molar specific heat at constant volume for monoatomic gas is which of the following?
+Options:
+1) 7R/2
+2) 9R/2
+3) 3R/2
+4) 5R/2
+Correct Answer: 3R/2
+QID : 775 - The nucleus of which of the following atoms whose atomic mass numbers 'A' are given in the options would have the highest binding energy per
+nucleon?
+Options:
+1) 200
+2) 100
+3) 5
+4) 20
+Correct Answer: 100
+QID : 776 - The period 'T' a pendulum of string length 'L', bob of mass 'm' and moment of inertia 'I' is given by _________________.
+Options:
+1) T = 2π √(IL/mg)
+2) T = 2π √(I/mgL)
+3) T = 2π √(mgL/I)
+4) T = 2π √(mg/IL)
+Correct Answer: T = 2π √(I/mgL)
+QID : 777 - The phenomenon of rainbow is due to the combined effect of all of the following properties of light except ____________.
+Options:
+1) dispersion
+2) refraction
+3) reflection
+4) polarization
+Correct Answer: polarization
+QID : 778 - The power loss in a conductor of resistance 'R' across which a potential difference of 'V' is equal to which of the following?
+Options:
+1) V/R2
+2) V2R
+3) VR2
+4) V2/R
+Correct Answer: V2/R
+QID : 779 - Which of the following is the product of moment of inertia and angular velocity?
+Options:
+1) Angular momentum
+2) Power
+3) Torque
+4) Work
+Correct Answer: Angular momentum
+QID : 780 - The radius of orbit of the electron in a hydrogen atom is equal to? (?o is permittivity of free space, 'e' is charge and 'm' is mass of an electron)
+Options:
+1) e/(4π?omv2)
+2) mv2e2/(4π?o)
+3) mv2e/(4π?o)
+4) e2/(4π?omv2)
+Correct Answer: e2/(4π?omv2)
+QID : 781 - The refractive index of denser medium 2 with respect to rarer medium 1 will be ____________ (where 'C' is the measure of the critical angle).
+Options:
+1) n12 = 1/sinC
+2) n21 = 1/sinC
+3) n12 = sinC
+4) n12 = 1/(-sinC)
+Correct Answer: n12 = 1/sinC
+QID : 782 - The speed 'c' of electromagnetic wave in vacuum is equal to? (where μo and ?o are free space permeability and permittivity constants)
+Options:
+1) 1/√(µo?o)
+2) 1/(µo?o)
+3) µo?o
+4) (µo?o)2
+Correct Answer: 1/√(µo?o)
+QID : 783 - The speed 'v' of transverse waves on a stretched string of linear mass density 'μ' and tension 'T' is equal to?
+Options:
+1) √(µ/T)
+2) √(T/µ)
+3) (T/µ)2
+4) (µ/T)2
+Correct Answer: √(T/µ)
+QID : 784 - The statement, "The liquid pressure is the same at all points at the same horizontal level irrespective of cross sectional area or base area or the shape
+of the container" represents which of the following?
+Options:
+1) Anomalous behaviour of water
+2) The hydrostatic paradox
+3) Algol paradox
+4) Archimedes' principle
+Correct Answer: The hydrostatic paradox
+QID : 785 - Electric flux through a closed surface 'S' enclosing a charge 'q' is equal to ______________. (?o is permittivity of free space)
+Options:
+1) q?o
+2) q2?o
+3) ?o/q
+4) q/?o
+Correct Answer: q/?o
+QID : 786 - There is a fundamental limit on the efficiency of a heat engine set by an independent principle of nature called the ____________Law of
+Thermodynamics.
+Options:
+1) Zeroth
+2) First
+3) Third
+4) Second
+Correct Answer: Second
+QID : 787 - Three quantities are needed to specify the magnetic field of the earth on its surface. Which of the following is not needed?
+Options:
+1) the vertical component
+2) the horizontal component
+3) the magnetic declination
+4) the magnetic dip
+Correct Answer the vertical component
+QID : 788 - Water at 4 oC has maximum _____________.
+Options:
+1) volume
+2) viscosity
+3) compressibility
+4) density
+Correct Answer density
+QID : 789 - What is the magnifying power of a compound microscope whose eyepiece has a focal length of 10 cm and the magnifying power of objective is 4? (Use
+least distance of distinct vision as 25 cm)
+Options:
+1) 3.5
+2) 14
+3) 8
+4) 16
+Correct Answer: 14
+QID : 790 - What is the Moment of Inertia of a thin circular ring of mass 'M' and radius 'R' about its diameter?
+Options:
+1) MR²/4
+2) MR²/3
+3) MR²/2
+4) MR²/6
+Correct Answer: MR²/2
+QID : 791 - What would be the acceleration (in m/s²) due to gravity on a planet whose mass is 1/7th the mass of earth and radius, half the radius of earth?
+Options:
+1) 5.6
+2) 4.9
+3) 4.2
+4) 3.5
+Correct Answer: 5.6
+QID : 792 - What would be the frequency (in Hz) of the beats when two sounds of frequencies 256 Hz and 260 Hz superimpose?
+Options:
+1) 8
+2) 2
+3) 16
+4) 4
+Correct Answer: 4
+QID : 793 - When temperature is held constant, the pressure and volume of a quantity of gas are related as PV = constant. This relationship is known as?
+Options:
+1) Charles’ law
+2) Boyle’s law
+3) Combined Gas Law
+4) Gay-Lussac's Law
+Correct Answer: Boyle’s law
+QID : 794 - When the transistor is used in the cut-off or saturation state, it acts as?
+Options:
+1) An amplifier
+2) Zener diode
+3) A switch
+4) An AND gate
+Correct Answer: A switch
+QID : 795 - Which formula represents Newton's Law of Gravitation?
+Options:
+1) F= Gm1m2/r (G is gravitational constant)
+2) F= Gm1m2/r² (G is gravitational constant)
+3) F= gm1m2/r² (g is acceleration due to gravity)
+4) F= gm1m2/r (g is acceleration due to gravity)
+Correct Answer: F= Gm1m2/r² (G is gravitational constant)
+QID : 796 -
+Options:
+1) AND
+2) NAND
+3) NOR
+4) OR
+Correct Answerr: OR
+QID : 797 - Which of the following is a periodic function if 'ω' is a constant and 't' represents time?
+Options:
+1) log (ωt)
+2) e–ωt
+3) 2?√(1/ωt)
+4) sin ωt + cos 2 ωt + sin 4 ωt
+Correct Answer: sin ωt + cos 2 ωt + sin 4 ωt
+QID : 798 - Which of the following is false about Electrostatic field lines?
+Options:
+1) Field lines start from positive charges and end at negative charges.
+2) If there is a single positive charge field lines will end at infinity.
+3) Two field lines can never cross each other.
+4) Electrostatic field lines form closed loops.
+Correct Answer: Electrostatic field lines form closed loops.
+QID : 799 - Which of the following statements is consistent with the Doppler effect?
+Options:
+1) As the source of sound moves towards the listener the pitch of the sound appears to be higher.
+2) As the source of sound moves towards the listener the pitch of the sound appears to be lower.
+3) As the source of sound moves away from the listener the pitch of the sound appears to be higher.
+4) As the listener moves towards the source of sound the pitch of the sound appears to be lower.
+Correct Answer: As the source of sound moves towards the listener the pitch of the sound appears to be higher.
+QID : 800 - Zener diode is fabricated by __________________ of the junction.
+Options:
+1) lightly doping both p and n-sides
+2) heavily doping both p and n-sides
+3) heavily doping p-side and lightly doping n-side
+4) lightly doping p-side and heavily doping n-side
+Correct Answerheavily doping both p and n-sides
